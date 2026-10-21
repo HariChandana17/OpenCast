@@ -1,0 +1,6 @@
+{
+  "name": "OpenCast - Real-time Public Stream",
+  "description": "A real-time public messaging and file sharing stream with no character limits, live viewer presence, file attachments, and instant deletion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
